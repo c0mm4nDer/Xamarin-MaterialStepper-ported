@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialSteppers", "MaterialSteppers\MaterialSteppers.csproj", "{702E2F56-DC7F-4411-8FB2-0D51D346D1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{5EF4D21E-83AF-4F88-A3DA-7F5E1B2C3C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702E2F56-DC7F-4411-8FB2-0D51D346D1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702E2F56-DC7F-4411-8FB2-0D51D346D1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702E2F56-DC7F-4411-8FB2-0D51D346D1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702E2F56-DC7F-4411-8FB2-0D51D346D1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF4D21E-83AF-4F88-A3DA-7F5E1B2C3C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF4D21E-83AF-4F88-A3DA-7F5E1B2C3C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF4D21E-83AF-4F88-A3DA-7F5E1B2C3C75}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5EF4D21E-83AF-4F88-A3DA-7F5E1B2C3C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF4D21E-83AF-4F88-A3DA-7F5E1B2C3C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF4D21E-83AF-4F88-A3DA-7F5E1B2C3C75}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBFD3463-F549-4155-9D52-15DABFBB8005}
+	EndGlobalSection
+EndGlobal
