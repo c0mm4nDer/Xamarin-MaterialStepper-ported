@@ -1,3 +1,6 @@
+# DEPRECATED
+This repository is now deprecated. This is no longer supported.
+
 # Xamarin Material Design Steppers
 
 This project was ported form [Material Design Steppers Library](https://github.com/shivasurya/materialsteppers)
